@@ -1,0 +1,15 @@
+no,cve,nickName,product,source,pubdate,Associated_Malware
+,CVE-2017-11882,,Microsoft Office 2007 SP3/2010 SP2/2013 SP1/2016 Products,us-cert.cisa.gov,12-May-20,"Loki, FormBook, Pony/FAREIT"
+,CVE-2017-0199,,"Microsoft Office 2007 SP3/2010 SP2/2013 SP1/2016, Vista SP2, Server 2008 SP2, Windows 7 SP1, Windows 8.1",,,"FINSPY, LATENTBOT, Dridex"
+,CVE-2017-5638,,Apache Struts 2 2.3.x before 2.3.32 and 2.5.x before 2.5.10.1,,,JexBoss
+,CVE-2012-0158,,Microsoft Office,,,Dridex
+,CVE-2019-0604,,Microsoft SharePoint,,,China Chopper
+,CVE-2017-0143,,Microsoft Windows ,,,Multiple using the EternalSynergy and EternalBlue Exploit Kit
+,CVE-2018-4878,,Adobe Flash Player,,,DOGCALL
+,CVE-2017-8759,,Microsoft .NET Framework,,,"FINSPY, FinFisher, WingBird"
+,CVE-2015-1641,,"Microsoft Word 2007 SP3, Office ",,,"Toshliph, Uwarrior"
+,CVE-2018-7600,,Drupal ,,,Kitty
+,CVE-2019-0708 ,BlueKeep,,,,
+,CVE-2020-1350,SIGRed,,,,
+,CVE-2020-1472,Netlogon,,,,
+,CVE-2020-0601 ,CurveBall,,,,

@@ -1,0 +1,18 @@
+Country / Selector,FireEye,Crowdstrike,Kaspersky,DELL SecureWorks,Check Point,Trend Micro Labs,Cisco Talos,Verisign iDefense,Microsoft,Symantec,Paloalto
+Generic,APT[X],,,TG-[X],,,Group [X],(Fish Names),(Elements),(Bug Names),APT-C-[X]
+China,,[X] Panda,[X] Dragon*,BRONZE [X],,,,,,,
+Russia,,[X] Bear,[X] Duke*,IRON [X],,,,,,,
+North Korea,,[X] Chollima,,NICKEL [X],,,,,,,
+South Korea,,[X] Crane,,,,,,,,,
+Iran,,[X] Kitten,,COBALT [X],,,,,,,
+India,,[X] Tiger,,ZINC [X],,,,,,,
+Vietnam,,[X] Buffalo,,,,,,,,,
+Lebanon,,,,,[X] Cedar,,,,,,
+Arab Countries,,,[X] Falcon,,,[X] Viper,,,,,
+Pakistan,,[X] Leopard,,,,,,,,,
+,,,,,,,,,,,
+Criminal / Financial,FIN[X],[X] Spider,,GOLD [X],,,,,,,
+Activists,,[X] Jackal,,,,,,,,,
+Espionage,,[X] Bat,,,,,,,,,
+Temporary,TEMP.[X],,,,,,,,,,
+Uncategorized ,UNC[X],,,,,,,,,,

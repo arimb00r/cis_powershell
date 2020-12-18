@@ -1,0 +1,11 @@
+apt,alternative,campaign ,malware,cve_
+APT33,"Elfin Team, Refined Kitten, Magnallium and Holmium",n,"SHAPESHIFT,DROPSHOT,Stonedrill,TURNEDUP,NANOCORE,ALFA Shell,NETWIRE","CVE-2018-20250,CVE-2017-0213,CVE-2017-11774"
+APT34,"Helix Kitten, OilRig, GreenBug, IRN2",n,"DNSPIONAGE,PICKPOCKET,VALUEVAULT,LONGWATCH","CVE-2017-11882, CVE-2017-0199, CVE-2017-11774"
+APT39,"Chafer, Remix Kitten",n,"SEAWEED, CACHEMONEY,POWBAT",n
+APT35,"Rocket Kitten, Charming Kitten, Newscaster, Phosphorus, Saffron Rose, Ajax, Magic Hound",n,"MAGIC HOUND, HAVIJ",n
+Cleaver,n,"Operation Wilted Tulip,",n,n
+CopyKittens,n,n,n,n
+Leafminer,n,n,n,n
+MuddyWater,"TEMP.Zagros, Seedworm",n,n,n
+Rampant Kitten,n,n,n,"CVE-2019-11510, CVE-2019-19781, CVE-2020-5902"
+Pioneer Kitten,"Fox Kitten, PARISITE, UNC757",n,n,"CVE-2018-13379, CVE-2019-11510, CVE-2019-19781, CVE-2020-5902"
