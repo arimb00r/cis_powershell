@@ -1,0 +1,11 @@
+sno,search_key,display_key,description,additional _notes,sec_recommendation,link_external,link_internal
+,,Ntdll.dll,,,,,
+,,user32.dll,,,,,
+,,system32.dll,,,,,
+,,hal.dll,,,,,
+,,OMDLG32.DLL,,,,,
+,,GDI32.DLL,,,,,
+,,KERNEL32.DLL ,,,,,
+,,Advapi32.dll,,,,,
+,,shell32.dll,,,,,
+,,crypt32.dll,,,,,

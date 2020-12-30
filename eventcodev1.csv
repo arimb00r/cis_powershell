@@ -1,0 +1,141 @@
+Sno,Event ID,Description,additional _notes,sec_recommendation,link_external,link_internal
+1,4720,A user account was created.,na,na,na,na
+2,4724,An attempt was made to reset an account's password.,na,na,na,na
+3,4738,A user account was changed.,na,na,na,na
+4,4722,A user account was enabled.,na,na,na,na
+5,4727,A security enabled global group was created.,na,na,na,na
+6,4754,A security enabled universal group was created.,na,na,na,na
+7,4731,A security enabled local group was created,na,na,na,na
+8,4776,The domain controller attempted to validate the credentials for an account,na,na,na,na
+9,4777,The domain controller failed to validate the credentials for an account,na,na,na,na
+10,4768,A Kerberos authentication ticket (TGT) was requested,na,na,na,na
+11,4769,A Kerberos service ticket was requested,na,na,na,na
+12,4770,A Kerberos service ticket was renewed,na,na,na,na
+13,4741,A computer account was created.,na,na,na,na
+14,4742,A computer account was changed.,na,na,na,na
+15,4743,A computer account was deleted.,na,na,na,na
+16,4739,Domain Policy was changed.,na,na,na,na
+17,4782,The password hash an account was accessed.,na,na,na,na
+18,4727,A security enabled global group was created.,na,na,na,na
+19,4728,A member was added to a security enabled global group.,na,na,na,na
+20,4729,A member was removed from a security enabled global group.,na,na,na,na
+21,4730,A security enabled global group was deleted.,na,na,na,na
+22,4731,A security enabled local group was created.,na,na,na,na
+23,4732,A member was added to a security enabled local group.,na,na,na,na
+24,4733,A member was removed from a security enabled local group.,na,na,na,na
+25,4734,A security enabled local group was deleted.,na,na,na,na
+26,4735,A security enabled local group was changed.,na,na,na,na
+27,4737,A security enabled global group was changed.,na,na,na,na
+28,4754,A security enabled universal group was created.,na,na,na,na
+29,4755,A security enabled universal group was changed.,na,na,na,na
+30,4756,A member was added to a security enabled universal group.,na,na,na,na
+31,4757,A member was removed from a security enabled universal group.,na,na,na,na
+32,4758,A security enabled universal group was deleted.,na,na,na,na
+33,4720,A user account was created.,na,na,na,na
+34,4722,A user account was enabled.,na,na,na,na
+35,4723,An attempt was made to change an account's password.,na,na,na,na
+36,4724,An attempt was made to reset an account's password.,na,na,na,na
+37,4725,A user account was disabled.,na,na,na,na
+38,4726,A user account was deleted.,na,na,na,na
+39,4738,A user account was changed.,na,na,na,na
+40,4740,A user account was locked out.,na,na,na,na
+41,4765,SID History was added to an account.,na,na,na,na
+42,4766,An attempt to add SID History to an account failed.,na,na,na,na
+43,4767,A user account was unlocked.,na,na,na,na
+44,4780,The ACL was set on accounts which are members of administrators groups.,na,na,na,na
+45,4781,The name of an account was changed:,na,na,na,na
+46,4934,Attributes of an Active Directory object were replicated.,na,na,na,na
+47,4935,Replication failure begins.,na,na,na,na
+48,4936,Replication failure ends.,na,na,na,na
+49,5136,A directory service object was modified.,na,na,na,na
+50,5137,A directory service object was created.,na,na,na,na
+51,5138,A directory service object was undeleted.,na,na,na,na
+52,5139,A directory service object was moved.,na,na,na,na
+53,5141,A directory service object was deleted.,na,na,na,na
+54,4932,Synchronization of a replica of an Active Directory naming context has begun.,na,na,na,na
+55,4933,Synchronization of a replica of an Active Directory naming context has ended.,na,na,na,na
+56,4634,An account was logged off.,na,na,na,na
+57,4647,User initiated logoff.,na,na,na,na
+58,4624,An account was successfully logged on.,na,na,na,na
+59,4625,An account failed to log on.,na,na,na,na
+60,4648,A logon was attempted using explicit credentials.,na,na,na,na
+61,4675,SIDs were filtered.,na,na,na,na
+62,4649,A replay attack was detected.,na,na,na,na
+63,4778,A session was reconnected to a Window Station.,na,na,na,na
+64,4779,A session was disconnected from a Window Station.,na,na,na,na
+65,4800,The workstation was locked.,na,na,na,na
+66,4801,The workstation was unlocked.,na,na,na,na
+67,4802,The screen saver was invoked.,na,na,na,na
+68,4803,The screen saver was dismissed.,na,na,na,na
+69,5378,The requested credentials delegation was disallowed by policy.,na,na,na,na
+70,5632,A request was made to authenticate to a wireless network.,na,na,na,na
+71,5633,A request was made to authenticate to a wired network.,na,na,na,na
+72,5140,A network share object was accessed.,na,na,na,na
+73,4664,An attempt was made to create a hard link.,na,na,na,na
+74,4985,The state of a transaction has changed.,na,na,na,na
+75,5051,A file was virtualized.,na,na,na,na
+76,5031,The Windows Firewall Service blocked an application from accepting incoming connections on the network.,na,na,na,na
+77,4698,A scheduled task was created.,na,na,na,na
+78,4699,A scheduled task was deleted.,na,na,na,na
+79,4700,A scheduled task was enabled.,na,na,na,na
+80,4701,A scheduled task was disabled.,na,na,na,na
+81,4702,A scheduled task was updated.,na,na,na,na
+82,4657,A registry value was modified.,na,na,na,na
+83,5039,A registry key was virtualized.,na,na,na,na
+84,4660,An object was deleted.,na,na,na,na
+85,4663,An attempt was made to access an object.,na,na,na,na
+86,4715,The audit policy (SACL) on an object was changed.,na,na,na,na
+87,4719,System audit policy was changed.,na,na,na,na
+88,4902,The Per user audit policy table was created.,na,na,na,na
+89,4906,The CrashOnAuditFail value has changed.,na,na,na,na
+90,4907,Auditing settings on object were changed.,na,na,na,na
+91,4706,A new trust was created to a domain.,na,na,na,na
+92,4707,A trust to a domain was removed.,na,na,na,na
+93,4713,Kerberos policy was changed.,na,na,na,na
+94,4716,Trusted domain information was modified.,na,na,na,na
+95,4717,System security access was granted to an account.,na,na,na,na
+96,4718,System security access was removed from an account.,na,na,na,na
+97,4864,A namespace collision was detected.,na,na,na,na
+98,4865,A trusted forest information entry was added.,na,na,na,na
+99,4866,A trusted forest information entry was removed.,na,na,na,na
+100,4867,A trusted forest information entry was modified.,na,na,na,na
+101,4704,A user right was assigned.,na,na,na,na
+102,4705,A user right was removed.,na,na,na,na
+103,4714,Encrypted data recovery policy was changed.,na,na,na,na
+104,4944,The following policy was active when the Windows Firewall started.,na,na,na,na
+105,4945,A rule was listed when the Windows Firewall started.,na,na,na,na
+106,4946,A change has been made to Windows Firewall exception list. A rule was added.,na,na,na,na
+107,4947,A change has been made to Windows Firewall exception list. A rule was modified.,na,na,na,na
+108,4948,A change has been made to Windows Firewall exception list. A rule was deleted.,na,na,na,na
+109,4949,Windows Firewall settings were restored to the default values.,na,na,na,na
+110,4950,A Windows Firewall setting has changed.,na,na,na,na
+111,4951,A rule has been ignored because its major version number was not recognized by Windows Firewall.,na,na,na,na
+112,4952,Parts of a rule have been ignored because its minor version number was not recognized by Windows Firewall. The other parts of the rule will be enforced.,na,na,na,na
+113,4953,A rule has been ignored by Windows Firewall because it could not parse the rule.,na,na,na,na
+114,4954,Windows Firewall Group Policy settings have changed. The new settings have been applied.,na,na,na,na
+115,4956,Windows Firewall has changed the active profile.,na,na,na,na
+116,4957,Windows Firewall did not apply the following rule:,na,na,na,na
+117,4958,Windows Firewall did not apply the following rule because the rule referred to items not configured on this computer:,na,na,na,na
+118,6144,Security policy in the group policy objects has been applied successfully.,na,na,na,na
+119,6145,One or more errors occurred while processing security policy in the group policy objects.,na,na,na,na
+120,4670,Permissions on an object were changed.,na,na,na,na
+121,4672,Special privileges assigned to new logon.,na,na,na,na
+122,4673,A privileged service was called.,na,na,na,na
+123,4674,An operation was attempted on a privileged object.,na,na,na,na
+124,5024,The Windows Firewall Service has started successfully.,na,na,na,na
+125,5025,The Windows Firewall Service has been stopped.,na,na,na,na
+126,5027,The Windows Firewall Service was unable to retrieve the security policy from the local storage. The service will continue enforcing the current policy.,na,na,na,na
+127,5028,The Windows Firewall Service was unable to parse the new security policy. The service will continue with currently enforced policy.,na,na,na,na
+128,5029,The Windows Firewall Service failed to initialize the driver. The service will continue to enforce the current policy.,na,na,na,na
+129,5030,The Windows Firewall Service failed to start.,na,na,na,na
+130,5032,Windows Firewall was unable to notify the user that it blocked an application from accepting incoming connections on the network.,na,na,na,na
+131,5033,The Windows Firewall Driver has started successfully.,na,na,na,na
+132,5034,The Windows Firewall Driver has been stopped.,na,na,na,na
+133,5035,The Windows Firewall Driver failed to start.,na,na,na,na
+134,5037,The Windows Firewall Driver detected critical runtime error. Terminating.,na,na,na,na
+135,4608,Windows is starting up.,na,na,na,na
+136,4609,Windows is shutting down.,na,na,na,na
+137,4616,The system time was changed.,na,na,na,na
+138,4621,Administrator recovered system from CrashOnAuditFail. Users who are not administrators will now be allowed to log on. Some auditable activity might not have been recorded.,na,na,na,na
+139,4697,A service was installed in the system.,na,na,na,na
+140,4618,A monitored security event pattern has occurred.,na,na,na,na

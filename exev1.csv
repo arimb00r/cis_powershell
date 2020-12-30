@@ -1,0 +1,4 @@
+sno,search_key,display_key,description,additional _notes,sec_recommendation,link_external,link_internal
+,,Ntkrnlpa.exe,,,,,
+,,ntoskrnl.exe,,,,,
+,,svchost.exe,,,,,
